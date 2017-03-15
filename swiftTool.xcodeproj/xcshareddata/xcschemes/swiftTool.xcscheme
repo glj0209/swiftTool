@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_31"
+               BlueprintIdentifier = "OBJ_34"
                BuildableName = "CommandLineKit.framework"
                BlueprintName = "CommandLineKit"
                ReferencedContainer = "container:swiftTool.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_40"
+               BlueprintIdentifier = "OBJ_43"
                BuildableName = "Rainbow.framework"
                BlueprintName = "Rainbow"
                ReferencedContainer = "container:swiftTool.xcodeproj">
@@ -42,9 +42,23 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_57"
+               BlueprintIdentifier = "OBJ_60"
                BuildableName = "swiftTool"
                BlueprintName = "swiftTool"
+               ReferencedContainer = "container:swiftTool.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "OBJ_73"
+               BuildableName = "swiftToolKit.framework"
+               BlueprintName = "swiftToolKit"
                ReferencedContainer = "container:swiftTool.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -73,7 +87,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "OBJ_31"
+            BlueprintIdentifier = "OBJ_34"
             BuildableName = "CommandLineKit.framework"
             BlueprintName = "CommandLineKit"
             ReferencedContainer = "container:swiftTool.xcodeproj">
